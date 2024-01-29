@@ -1,4 +1,4 @@
-# Frontend Mentor - Desafio Pricing Component
+# FrontEnd Mentor - Desafio Recipe Page
 
 ![Layout](./design/desktop-preview.jpg)
 
@@ -12,12 +12,12 @@ Para o desafio, os usuários deverão:
 
 ## Layout
 
-É possível visualizar todos os layouts(mobile e desktop) da aplicação na pasta `./design`
+É possível visualizar todos os layouts (mobile e desktop) da aplicação na pasta `./design`.
 
 
 ## Estilização
 
-É possível visualizar todo o esquema de cores e fontes que deverão ser utilizados na aplicação por meio do arquivo `style-guide`
+É possível visualizar todo o esquema de cores e fontes que deverão ser utilizados na aplicação por meio do arquivo `style-guide`.
 
 ## Tecnologias Utilizadas
 
@@ -26,6 +26,6 @@ Para o desafio, os usuários deverão:
 
 ## Deploy
 
-Para realizar o deploy da minha aplicação, utilizei uma plataforma de hospedagem de sites estáticos gratuita, chamada [Netlify](https://www.netlify.com/).
+Para realizar o deploy da minha aplicação, utilizei uma plataforma de hospedagem de sites estáticos gratuita, chamada <strong><a href="https://www.netlify.com/" target="_blank">Netlify</a></strong>.
 
-Clique [aqui](https://jp27-recipepage.netlify.app/) para visualizar minha aplicação!
+Clique <strong><a href="https://jp27-recipepage.netlify.app/" target="_blank">Netlify</a></strong> para visualizar minha aplicação!

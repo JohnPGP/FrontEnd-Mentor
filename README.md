@@ -1,4 +1,4 @@
-# Frontend Mentor
+# FrontEnd Mentor
 
 <div style="text-align: center;"><img src="images/meta-homepage.png" width="100%"></div> 
 </div> 
@@ -7,8 +7,8 @@
 
 
 ### O que é o FrontEnd Mentor? 
-O <a  href="https://www.frontendmentor.io/"> Frontend Mentor</a> é um site onde são disponibilizados diversos desafios de HTML, CSS e JS, onde a proposta é o usuário praticar suas habilidades com essas tecnologias. É possível encontrar desafios gratuitos em diferentes níveis, como básico, intermediário e avançado.
+O <a  href="https://www.frontendmentor.io/" target="_blank"> FrontEnd Mentor</a> é um site onde são disponibilizados diversos desafios de HTML, CSS e JS, onde a proposta é o usuário praticar suas habilidades com essas tecnologias. É possível encontrar desafios gratuitos em diferentes níveis, como básico, intermediário e avançado.
 
 
 ### Desafios Concluídos (até o momento)
-- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Recipe%20Page">Recipe Page</a>
+- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Recipe%20Page" target="_blank">Recipe Page</a>
