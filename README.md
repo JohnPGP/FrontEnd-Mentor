@@ -7,7 +7,7 @@
 
 
 ### O que é o Frontend Mentor? 
-O <a  href="https://www.frontendmentor.io/" target="_blank"> FrontEnd Mentor</a> é um site onde são disponibilizados diversos desafios de HTML, CSS e JS, onde a proposta é o usuário praticar suas habilidades com essas tecnologias. É possível encontrar desafios gratuitos em diferentes níveis, como básico, intermediário e avançado.
+O <a  href="https://www.frontendmentor.io/" target="_blank"> Frontend Mentor</a> é um site onde são disponibilizados diversos desafios de HTML, CSS e JS, onde a proposta é o usuário praticar suas habilidades com essas tecnologias. É possível encontrar desafios gratuitos em diferentes níveis, como básico, intermediário e avançado.
 
 
 ### Desafios Concluídos (até o momento)
