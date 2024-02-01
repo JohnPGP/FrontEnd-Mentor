@@ -11,4 +11,6 @@ O <a  href="https://www.frontendmentor.io/" target="_blank"> FrontEnd Mentor</a>
 
 
 ### Desafios Concluídos (até o momento)
-- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Recipe%20Page" target="_blank">Recipe Page</a>
+## Newbie
+- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Recipe%20Page" target="_blank">Recipe Page</a>
+- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Social%20Links%20Profile" target="_blank">Social Links Profile</a>

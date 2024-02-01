@@ -1,4 +1,4 @@
-# FrontEnd Mentor - Desafio Recipe Page
+# Frontend Mentor - Desafio Recipe Page
 
 ![Layout](./design/desktop-preview.jpg)
 
