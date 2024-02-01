@@ -1,12 +1,12 @@
-# FrontEnd Mentor
+# Frontend Mentor
 
 <div style="text-align: center;"><img src="images/meta-homepage.png" width="100%"></div> 
 </div> 
 
-##### Este é um repositório criado para exibir minhas resoluções dos desafios propostos no site FrontEnd Mentor.
+##### Este é um repositório criado para exibir minhas resoluções dos desafios propostos no site Frontend Mentor.
 
 
-### O que é o FrontEnd Mentor? 
+### O que é o Frontend Mentor? 
 O <a  href="https://www.frontendmentor.io/" target="_blank"> FrontEnd Mentor</a> é um site onde são disponibilizados diversos desafios de HTML, CSS e JS, onde a proposta é o usuário praticar suas habilidades com essas tecnologias. É possível encontrar desafios gratuitos em diferentes níveis, como básico, intermediário e avançado.
 
 
