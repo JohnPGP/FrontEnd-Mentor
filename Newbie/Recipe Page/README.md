@@ -28,4 +28,4 @@ Para o desafio, os usuários deverão:
 
 Para realizar o deploy da minha aplicação, utilizei uma plataforma de hospedagem de sites estáticos gratuita, chamada <strong><a href="https://www.netlify.com/" target="_blank">Netlify</a></strong>.
 
-<strong><a href="https://jp27-recipepage.netlify.app/" target="_blank">Clique aqui</a></strong> para visualizar minha aplicação!
+<strong><a href="https://jp27-recipe-page.netlify.app/" target="_blank">Clique aqui</a></strong> para visualizar minha aplicação!
