@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans';
+}
+
+:root {
+    --Dark-cyan: hsl(185, 75%, 39%);
+    --Very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --Dark-grayish-blue: hsl(227, 10%, 46%);
+    --Dark-gray: hsl(0, 0%, 59%);
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    
+    background-color: var(--Dark-cyan);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    overflow-wrap: break-word;
+
+    color: var(--Very-dark-desaturated-blue)
+}
+
+.bg-top {
+    position: fixed;
+    z-index: -1;
+    top: -70%;
+    right: 51.5%;
+}
+
+.bg-bottom {
+    position: fixed;
+    z-index: -1;
+    bottom: -86.5%;
+    left: 48.3%;
+}
+
+.container {
+    max-width: 90%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.card {
+    max-width: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+.photo img{
+    margin-top: -50%;
+    border-radius: 50%;
+    border: solid 5px white;
+}
+
+ h1 {
+    margin-top: 15px;
+    font-size: 18px;
+ }
+
+ .age {
+    margin-left: 5px;
+    font-weight: 500;
+    color: var(--Dark-grayish-blue);
+ }
+
+ .city {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Dark-grayish-blue);
+ }
+
+ .rating-info {
+    border-top: 1px solid hsla(0, 0%, 59%, 0.3);
+    margin-top: 25px;
+    width: 100%;
+    height: 90px;
+    padding: 0 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+ }
+
+ h3 section {
+    color: var(--Dark-grayish-blue);
+    font-size: 10px;
+    line-height: 1.4rem;
+    letter-spacing: .07rem;
+ }
+
+.attribution {
+    position: absolute;
+    bottom: 1%;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution p {
+    color: hsl(223, 43%, 79%);
+}
+
+.attribution a {
+    text-decoration: none;
+    color: white;
+}
+.attribution a:hover {
+    text-decoration: none;
+    color: var(--Very-dark-desaturated-blue);
+    font-weight: bold;
+}

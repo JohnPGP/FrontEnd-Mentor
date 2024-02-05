@@ -1,15 +1,11 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+# Frontend Mentor - Profile Card Component
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Sobre o desafio
 
-O desafio consiste em criar uma landing page, o mais parecido possível com a imagem acima.
+O desafio consiste em criar um Profile Card, o mais parecido possível com a imagem acima.
 Poderá ser utilizado qualquer tipo de ferramenta que se achar necessário.
-
-Para o desafio, os usuários deverão:
-- Visualizar o layout ideal do componente, dependendo do tamanho de tela do dispositivo;
-- Ver os estados de foco em todos os elementos interativos da página.
 
 ## Layout
 
@@ -29,4 +25,4 @@ Para o desafio, os usuários deverão:
 
 Para realizar o deploy da minha aplicação, utilizei uma plataforma de hospedagem de sites estáticos gratuita, chamada <strong><a href="https://www.netlify.com/" target="_blank">Netlify</a></strong>.
 
-<strong><a href="https://jp27-huddle-landing-page.netlify.app/" target="_blank">Clique aqui</a></strong> para visualizar minha aplicação!
+<strong><a href="https://jp27-profile-card-component.netlify.app/" target="_blank">Clique aqui</a></strong> para visualizar minha aplicação!
