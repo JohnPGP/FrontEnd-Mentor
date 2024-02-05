@@ -15,4 +15,4 @@ O <a  href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> 
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Recipe%20Page" target="_blank">Recipe Page</a>
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Social%20Links%20Profile" target="_blank">Social Links Profile</a>
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Huddle%20Landing%20Page" target="_blank">Huddle Landing Page</a>
-- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Profile%20Card%20Component" target="_blank">Profile Card Component</a>
+- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Profile%20Card%20Component" target="_blank">Profile Card</a>
