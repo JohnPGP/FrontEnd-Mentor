@@ -23,7 +23,6 @@ body {
     background-color: var(--Very-dark-blue);
     color: white;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 
@@ -70,7 +69,7 @@ h1 {
 }
 
 h1 span {
-    color: var(--Soft-violet)
+    color: var(--Soft-violet);
 }
 
 .information p{
@@ -83,12 +82,10 @@ h1 span {
 }
 
 .rating-info {
-    
     padding-right: 4.5rem;
     margin-top: 4rem;
     display: flex;
-    justify-content: space-between;
-    
+    justify-content: space-between;  
 }
 
 h2 {
@@ -103,14 +100,6 @@ h2 section {
     font-weight: 500;
     letter-spacing: .05rem;
 }
-
-
-
-
-
-
-
-
 
 footer {
     position: absolute;
@@ -129,6 +118,85 @@ footer a {
 }
 footer a:hover {
     text-decoration: none;
-    color: var(--Very-dark-desaturated-blue);
+    color: var(--Soft-violet);
     font-weight: bold;
+}
+
+@media (max-width: 1023px){
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .information p {
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    h2 section {
+        font-size: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 768px){
+    body {
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 20px;
+    }
+
+    main {
+        background-color: var(--Dark-desaturated-blue);
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        border-radius: 10px;
+    }
+    
+    .information {
+        width: 100%;
+        padding: 2.5rem 1.7rem 0 1.7rem;
+        text-align: center;
+    }
+    
+    .picture {
+        display: flex;
+        width: auto;
+        height: calc(100vw - 200px);
+        min-height: 240px;
+        background-image: url(../images/image-header-desktop.jpg);
+        background-size: cover;
+        border-radius: 10px 10px 0 0;
+    }
+    
+    h1 {
+        font-size: 1.9rem;
+    }
+
+    .rating-info {
+        flex-direction: column;
+        padding-right: 0;
+        margin-top: 2rem;
+    }
+
+    h2 {
+        margin-right: 0;
+        margin-bottom: 2rem;
+        font-size: 1.5rem;
+    }
+
+    h2 section {
+        font-size: 12px;
+    }
+
+    footer {
+        position: static;
+        padding: 16px 0;
+    }
 }
