@@ -186,13 +186,13 @@ footer a:hover {
     }
 
     h2 {
-        margin-right: 0;
         margin-bottom: 2rem;
         font-size: 1.5rem;
     }
 
     h2 section {
         font-size: 12px;
+        margin: 0;
     }
 
     footer {
