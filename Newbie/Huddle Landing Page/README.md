@@ -15,7 +15,6 @@ Para o desafio, os usuários deverão:
 
 É possível visualizar todos os layouts (mobile e desktop) da aplicação na pasta `./design`.
 
-
 ## Estilização
 
 É possível visualizar todo o esquema de cores e fontes que deverão ser utilizados na aplicação por meio do arquivo `style-guide`.

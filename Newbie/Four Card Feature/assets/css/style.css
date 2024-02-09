@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --Red: hsl(0, 78%, 62%);
+    --Cyan: hsl(180, 62%, 55%);
+    --Orange: hsl(34, 97%, 64%);
+    --Blue: hsl(212, 86%, 64%);
+    --Very-Dark-Blue: hsl(234, 12%, 34%);
+    --Grayish-Blue: hsl(229, 6%, 66%);
+    --Very-Light-Gray: hsl(0, 0%, 98%);
+}
+
+body {
+    font-family: 'Poppins';
+    background-color: var(--Very-Light-Gray);
+    text-align: center;
+
+    width: 100%;
+    height: 100vh;
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 20px;
+    color: var(--Very-Dark-Blue);
+    font-size: 28px;
+}
+
+.not-bold {
+    font-weight: 300;
+    margin-bottom: -3px;
+}
+
+.text {
+    color: var(--Grayish-Blue);
+    margin: 1rem auto;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.6;
+    width: 450px;
+}
+
+.card-group {
+    margin-top: 2.9rem;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    text-align: start;
+    background-color: white;
+    width: 285px;
+    height: 200px;
+    padding: 1.5rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 15px;
+    margin-bottom: 1.6rem;
+}
+
+.card h2 {
+    color: var(--Very-Dark-Blue);
+    font-size: 16px;
+    margin-bottom: 0.5rem;
+}
+
+.card p {
+    font-size: 11px;
+    color: var(--Grayish-Blue);
+}
+
+.card img {
+    margin-left: 182px;
+    margin-top: 34px;
+    width: 50px;
+}
+
+.one {
+    border-top: 4px solid var(--Cyan);
+}
+
+.two {
+    border-top: 4px solid var(--Red);
+}
+
+.three {
+    border-top: 4px solid var(--Orange);
+}
+
+.for {
+    border-top: 4px solid var(--Blue);
+}
+
+.middle-cards {
+    margin: 0 1.6rem;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 1vh;
+}
+
+footer p {
+    color: var(--Grayish-Blue);
+    font-size: 11px;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--Very-Dark-Blue);
+}
+footer a:hover {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+@media (max-width: 1024px) and (min-width: 720px) {
+    .one {
+        align-self: flex-start;
+    }
+
+    .for {
+        position: absolute;
+        align-self: flex-end;
+    }
+}
+
+@media (max-width: 719px) {
+    body {
+        display: block;
+    }
+    
+    h1 {
+        margin-top: 80px;
+    }
+
+    .card-group {
+        flex-direction: column;
+    }
+
+    footer {
+        position: static;
+        padding-bottom: 16px;
+    }
+}
+
+@media (max-width: 450px) {
+    h1 {
+        font-size: 22px;
+    }
+
+    .text {
+        padding: 0 32px;
+        width: auto;
+    }
+}

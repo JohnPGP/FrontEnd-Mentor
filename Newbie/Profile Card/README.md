@@ -11,7 +11,6 @@ Poderá ser utilizado qualquer tipo de ferramenta que se achar necessário.
 
 É possível visualizar todos os layouts (mobile e desktop) da aplicação na pasta `./design`.
 
-
 ## Estilização
 
 É possível visualizar todo o esquema de cores e fontes que deverão ser utilizados na aplicação por meio do arquivo `style-guide`.
