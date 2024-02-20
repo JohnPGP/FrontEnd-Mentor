@@ -18,3 +18,4 @@ O <a  href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> 
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Profile%20Card" target="_blank">Profile Card Component</a>
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Stats%20Preview%20Card" target="_blank">Stats Preview Card Component</a>
 - <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Four%20Card%20Feature" target="_blank">Four Card Feature Section</a>
+- <a href="https://github.com/JohnPGP/FrontEnd-Mentor/tree/main/Newbie/Social%20Proof%20Section" target="_blank">Social Proof Section</a>
